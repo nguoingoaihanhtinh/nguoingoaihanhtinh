@@ -23,12 +23,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 
-### 📊 GitHub Stats:
-![Khoa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguoingoaihanhtinh&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguoingoaihanhtinh&layout=compact&theme=radical)
 
 <!--
 **nguoingoaihanhtinh/nguoingoaihanhtinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Stats:
+![Khoa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguoingoaihanhtinh&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguoingoaihanhtinh&layout=compact&theme=radical)
 
 Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://your-portfolio-link.com)
