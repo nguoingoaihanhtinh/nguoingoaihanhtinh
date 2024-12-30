@@ -25,7 +25,7 @@
 
 
 ### 📊 GitHub Stats:
-![Rishav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguoingoaihanhtinh=true&theme=radical)
+![Khoa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguoingoaihanhtinh&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguoingoaihanhtinh&layout=compact&theme=radical)
 
 <!--
