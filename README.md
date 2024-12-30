@@ -2,11 +2,10 @@
 - 🔭 I’m currently studying at University of Information Technology - VNUHCM
 - 📫 How to reach me tuankhoaanh2104@gmail.com
 - 🌱 I’m currently learning NextJs, Typescripts
-- 
+- ⚡ Fun fact: ...
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rishav-chanda-b89a791b3/)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook)](https://www.facebook.com/rishav.chanda)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/khoa-phan-3a706a340/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?logo=facebook)](https://www.facebook.com/khoakhungvl/?locale=vi_VN)
 
 ### Languages and Tools:
 
@@ -32,7 +31,7 @@
 **nguoingoaihanhtinh/nguoingoaihanhtinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://your-portfolio-link.com)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
