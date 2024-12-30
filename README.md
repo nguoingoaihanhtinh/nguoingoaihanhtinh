@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Phan Tuan Anh Khoa
 - 🔭 I’m currently studying at University of Information Technology - VNUHCM
 - 📫 How to reach me tuankhoaanh2104@gmail.com
 - 🌱 I’m currently learning NextJs, Typescripts
