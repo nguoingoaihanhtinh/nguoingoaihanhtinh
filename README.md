@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🔭 I’m currently studying at University of Information Technology - VNUHCM
+📫 How to reach me tuankhoaanh2104@gmail.com
+🌱 I’m currently learning NextJs, Typescripts
 <!--
 **nguoingoaihanhtinh/nguoingoaihanhtinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
